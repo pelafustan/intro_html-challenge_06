@@ -42,6 +42,10 @@ header p {
   font-size: 1.2rem;
 }
 
+.education li {
+  list-style-type: none;
+}
+
 footer {
   background-color: #EFE1D4;
   color: #3C7D8D;
@@ -55,4 +59,8 @@ footer h2 {
 
 .small-p {
   font-size: 0.8rem;
+}
+
+.port-carousel {
+  background-color: #3C7D8D;
 }
